@@ -60,12 +60,12 @@
     <None Include="temp\notcontent.config" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="packages.config" />
+    <None Include="packages.config" />
     <Content Include="temp\content.config" />
     <Content Include="temp\content.zip" />
     <Content Include="temp\content.ps1" />
     <Content Include="temp\content.jsx" />
-    <Content Include="web.config" />
+    <None Include="web.config" />
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
